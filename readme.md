@@ -1,3 +1,5 @@
+Submission for the Inclusion's Career Accelerator Program (CAP)
+
 # Movie Quotes App
 
 An app that displays movie quotes every time it is refreshed.
@@ -14,6 +16,7 @@ You must have node.js installed.
 
 You should be able to go to http://localhost:3000 to view the website.
 
-##Contributors
+## Contributors
+
 -Dan the intern
 -Amy Kim
