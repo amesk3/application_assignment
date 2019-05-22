@@ -18,5 +18,4 @@ You should be able to go to http://localhost:3000 to view the website.
 
 ## Contributors
 
--Dan the intern
--Amy Kim
+-Dan the intern & Amy Kim
